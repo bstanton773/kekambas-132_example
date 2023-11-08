@@ -1,0 +1,15 @@
+{
+    "name": "day3-again",
+    "version": "1.0.0",
+    "description": "Going through TypeScript setup again",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "tsc && node ./dist/index.js"
+    },
+    "author": "Brian",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^5.2.2"
+    }
+}
